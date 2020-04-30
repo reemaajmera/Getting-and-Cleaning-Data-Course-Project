@@ -9,6 +9,7 @@ activity - activity_labels.txt file
 subject_test - subject_test.txt file
 x_test - X_test.txt
 y_test - Y_test.txt
+subject_train - subject_train.txt
 x_train - train/X_train.txt
 y_train -train/Y_train.txt
 
